@@ -8,6 +8,7 @@
 .author_info {
     display: grid;
     grid-template-columns: 50px 1fr;
+    margin: 20px 0;
 }
 
 .author_info img {
@@ -25,4 +26,22 @@
 
 .author_info i:hover {
     color: red;
+}
+
+.blog_title {
+    height: 50vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    font-size: 3rem;
+    background: linear-gradient(180deg, rgba(255,241,30,1) 0%, rgba(255,0,0,1) 100%);
+}
+
+.half_width {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.blog_content {
+    font-size: 1.5rem;
 }
