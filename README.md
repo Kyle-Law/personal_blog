@@ -2,7 +2,7 @@
 
 > Personal Blog Website
 
-![Screenshot](![image](https://user-images.githubusercontent.com/55923773/82445605-b4c9ed80-9ad7-11ea-9cc0-36ffec81a716.png)
+![image](https://user-images.githubusercontent.com/55923773/82445605-b4c9ed80-9ad7-11ea-9cc0-36ffec81a716.png)
 
 ## Built With
 - HTML, CSS
