@@ -42,6 +42,12 @@
     margin: 0 auto;
 }
 
+@media (max-width: 768px) {
+    .half_width {
+      width: 80%;
+    }
+  }
+
 .blog_content {
     font-size: 1.5rem;
 }
