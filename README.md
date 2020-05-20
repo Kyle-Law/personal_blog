@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/personal_blog/59c11262eb824719d02b8be7df9cccbd50aa4246/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/personal_blog/6b43ee876bbe7d5ddde6916adf83c15fb8e7e202/index.html)
 
 ## 🤝 Contributing
 
