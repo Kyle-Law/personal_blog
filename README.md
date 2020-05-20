@@ -2,7 +2,7 @@
 
 > Personal Blog Website
 
-![Screenshot](![image](https://user-images.githubusercontent.com/55923773/82445605-b4c9ed80-9ad7-11ea-9cc0-36ffec81a716.png)g)
+![Screenshot](![image](https://user-images.githubusercontent.com/55923773/82445605-b4c9ed80-9ad7-11ea-9cc0-36ffec81a716.png)
 
 ## Built With
 - HTML, CSS
@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/personal_blog/34e8dd8280f8d6e18150df16c2927b57effdbbac/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/personal_blog/59c11262eb824719d02b8be7df9cccbd50aa4246/index.html)
 
 ## 🤝 Contributing
 
